@@ -15,5 +15,5 @@ spec:
     containers:
     - name: kubedemoapp
       image: varshap25/kuber:version1
-      port:5000
+      port: 5000
     - containerPort: 5000
